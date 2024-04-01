@@ -1,6 +1,6 @@
 # vue-router-4
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a tutorial result from [this](https://www.youtube.com/playlist?list=PL6tf8fRbavl1A-S6D6Lt_fNWogiaGlP7L) video series.
 
 ## Recommended IDE Setup
 
